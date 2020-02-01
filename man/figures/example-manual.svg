@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 720 576" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type='text/css'>
+<![CDATA[
+
+        line, polyline, polygon, path, rect, circle {
+          fill: none;
+          stroke: #000000;
+          stroke-linecap: round;
+          stroke-linejoin: round;
+          stroke-miterlimit: 10.00;
+        }
+]]>
+</style>
+  <rect style="stroke: none; fill: #ffffff" width="100%" height="100%" />
+  <defs>
+    <clipPath id="clip_0_576_720_0">
+      <rect x="0" y="0" width="720" height="576" />
+    </clipPath>
+  </defs>
+  <rect id="rect-0001" style="fill: #FFFFFF; stroke: #FFFFFF; stroke-width: 1.07" clip-path="url(#clip_0_576_720_0)" x="0" y="0" width="720" height="576" />
+  <defs>
+    <clipPath id="clip_33_26_544_26_629_65_23_35">
+      <rect x="33.26" y="23.35" width="596.38" height="520.91" />
+    </clipPath>
+  </defs>
+  <rect id="rect-0002" style="fill: #FFFFFF; stroke: none" clip-path="url(#clip_33_26_544_26_629_65_23_35)" x="33.26" y="23.35" width="596.38" height="520.91" />
+  <polyline points="33.26,436.02 629.65,436.02" id="polyline-0001" style="stroke: #EBEBEB; stroke-width: 0.53" clip-path="url(#clip_33_26_544_26_629_65_23_35)" />
+  <polyline points="33.26,266.89 629.65,266.89" id="polyline-0002" style="stroke: #EBEBEB; stroke-width: 0.53" clip-path="url(#clip_33_26_544_26_629_65_23_35)" />
+  <polyline points="33.26,97.76 629.65,97.76" id="polyline-0003" style="stroke: #EBEBEB; stroke-width: 0.53" clip-path="url(#clip_33_26_544_26_629_65_23_35)" />
+  <polyline points="33.26,520.58 629.65,520.58" id="polyline-0004" style="stroke: #EBEBEB; stroke-width: 1.07" clip-path="url(#clip_33_26_544_26_629_65_23_35)" />
+  <polyline points="33.26,351.45 629.65,351.45" id="polyline-0005" style="stroke: #EBEBEB; stroke-width: 1.07" clip-path="url(#clip_33_26_544_26_629_65_23_35)" />
+  <polyline points="33.26,182.33 629.65,182.33" id="polyline-0006" style="stroke: #EBEBEB; stroke-width: 1.07" clip-path="url(#clip_33_26_544_26_629_65_23_35)" />
+  <polyline points="145.09,544.26 145.09,23.35" id="polyline-0007" style="stroke: #EBEBEB; stroke-width: 1.07" clip-path="url(#clip_33_26_544_26_629_65_23_35)" />
+  <polyline points="331.46,544.26 331.46,23.35" id="polyline-0008" style="stroke: #EBEBEB; stroke-width: 1.07" clip-path="url(#clip_33_26_544_26_629_65_23_35)" />
+  <polyline points="517.83,544.26 517.83,23.35" id="polyline-0009" style="stroke: #EBEBEB; stroke-width: 1.07" clip-path="url(#clip_33_26_544_26_629_65_23_35)" />
+  <rect id="rect-0003" style="fill: #FF6347; stroke-width: 1.07" clip-path="url(#clip_33_26_544_26_629_65_23_35)" x="61.22" y="148.5" width="167.73" height="372.08" />
+  <defs>
+    <pattern id="gear4" width="20" height="20" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse">
+      <rect width="100%" height="100%" style="fill:#ffffff; fill-opacity:1; stroke:none;" />
+      <line x1="0" y1="0" x2="0" y2="20" style="stroke:blue; stroke-width:20; stroke-opacity:1;">
+        <animate attributeName="stroke-width" attributeType="XML" dur="4s" repeatCount="indefinite" values="20 ; 40; 0 ; 20" keyTimes="0 ; 0.25 ; 0.75; 1" />
+      </line>
+    </pattern>
+  </defs>
+  <rect id="rect-0004" style="fill: url(#gear4); stroke-width: 1.07" clip-path="url(#clip_33_26_544_26_629_65_23_35)" x="247.59" y="283.8" width="167.73" height="236.78" />
+  <defs>
+    <pattern id="gear6" width="20" height="20" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse">
+      <rect width="100%" height="100%" style="fill:#ffffff; fill-opacity:1; stroke:none;" />
+      <line x1="0" y1="0" x2="0" y2="20" style="stroke:#000000; stroke-width:20; stroke-opacity:1;" />
+      <animateTransform attributeName="patternTransform" attributeType="xml" type="rotate" dur="16s" repeatCount="indefinite" values="45; 360; 0; 45" keyTimes="0; 0.875; 0.875; 1" />
+    </pattern>
+  </defs>
+  <rect id="rect-0005" style="fill: url(#gear6); stroke-width: 1.07" clip-path="url(#clip_33_26_544_26_629_65_23_35)" x="433.96" y="47.03" width="167.73" height="473.55" />
+  <rect id="rect-0006" style="fill: #FFFFFF; fill-opacity: 0; stroke: #333333; stroke-width: 1.07" clip-path="url(#clip_33_26_544_26_629_65_23_35)" x="33.26" y="23.35" width="596.38" height="520.91" />
+  <g clip-path="url(#clip_0_576_720_0)">
+    <text x="23.44" y="523.73" lengthAdjust="spacingAndGlyphs" id="text-0001" textLength="4.89px" style="font-size: 8.8px; font-family: Helvetica; fill: #4D4D4D">
+      0
+    </text>
+  </g>
+  <g clip-path="url(#clip_0_576_720_0)">
+    <text x="23.44" y="354.61" lengthAdjust="spacingAndGlyphs" id="text-0002" textLength="4.89px" style="font-size: 8.8px; font-family: Helvetica; fill: #4D4D4D">
+      5
+    </text>
+  </g>
+  <g clip-path="url(#clip_0_576_720_0)">
+    <text x="18.55" y="185.48" lengthAdjust="spacingAndGlyphs" id="text-0003" textLength="9.78px" style="font-size: 8.8px; font-family: Helvetica; fill: #4D4D4D">
+      10
+    </text>
+  </g>
+  <polyline points="30.52,520.58 33.26,520.58" id="polyline-0010" style="stroke: #333333; stroke-width: 1.07" clip-path="url(#clip_0_576_720_0)" />
+  <polyline points="30.52,351.45 33.26,351.45" id="polyline-0011" style="stroke: #333333; stroke-width: 1.07" clip-path="url(#clip_0_576_720_0)" />
+  <polyline points="30.52,182.33 33.26,182.33" id="polyline-0012" style="stroke: #333333; stroke-width: 1.07" clip-path="url(#clip_0_576_720_0)" />
+  <polyline points="145.09,547 145.09,544.26" id="polyline-0013" style="stroke: #333333; stroke-width: 1.07" clip-path="url(#clip_0_576_720_0)" />
+  <polyline points="331.46,547 331.46,544.26" id="polyline-0014" style="stroke: #333333; stroke-width: 1.07" clip-path="url(#clip_0_576_720_0)" />
+  <polyline points="517.83,547 517.83,544.26" id="polyline-0015" style="stroke: #333333; stroke-width: 1.07" clip-path="url(#clip_0_576_720_0)" />
+  <g clip-path="url(#clip_0_576_720_0)">
+    <text x="142.64" y="555.5" lengthAdjust="spacingAndGlyphs" id="text-0004" textLength="4.89px" style="font-size: 8.8px; font-family: Helvetica; fill: #4D4D4D">
+      4
+    </text>
+  </g>
+  <g clip-path="url(#clip_0_576_720_0)">
+    <text x="329.01" y="555.5" lengthAdjust="spacingAndGlyphs" id="text-0005" textLength="4.89px" style="font-size: 8.8px; font-family: Helvetica; fill: #4D4D4D">
+      6
+    </text>
+  </g>
+  <g clip-path="url(#clip_0_576_720_0)">
+    <text x="515.38" y="555.5" lengthAdjust="spacingAndGlyphs" id="text-0006" textLength="4.89px" style="font-size: 8.8px; font-family: Helvetica; fill: #4D4D4D">
+      8
+    </text>
+  </g>
+  <g clip-path="url(#clip_0_576_720_0)">
+    <text x="299.98" y="568.08" lengthAdjust="spacingAndGlyphs" id="text-0007" textLength="62.95px" style="font-size: 11px; font-family: Helvetica">
+      as.factor(cyl)
+    </text>
+  </g>
+  <g clip-path="url(#clip_0_576_720_0)">
+    <text x="13.37" y="297.26" lengthAdjust="spacingAndGlyphs" id="text-0008" textLength="26.91px" style="font-size: 11px; font-family: Helvetica" transform="rotate(-90 13.37 297.26)">
+      count
+    </text>
+  </g>
+  <rect id="rect-0007" style="fill: #FFFFFF; stroke: none" clip-path="url(#clip_0_576_720_0)" x="640.61" y="206.64" width="73.91" height="154.33" />
+  <g clip-path="url(#clip_0_576_720_0)">
+    <text x="646.09" y="221.23" lengthAdjust="spacingAndGlyphs" id="text-0009" textLength="62.95px" style="font-size: 11px; font-family: Helvetica">
+      as.factor(cyl)
+    </text>
+  </g>
+  <rect id="rect-0008" style="fill: #FFFFFF; stroke: none" clip-path="url(#clip_0_576_720_0)" x="646.09" y="227.93" width="42.52" height="42.52" />
+  <rect id="rect-0009" style="fill: #FF6347; stroke-width: 1.07" clip-path="url(#clip_0_576_720_0)" x="646.8" y="228.64" width="41.1" height="41.1" />
+  <rect id="rect-0010" style="fill: #FFFFFF; stroke: none" clip-path="url(#clip_0_576_720_0)" x="646.09" y="270.45" width="42.52" height="42.52" />
+  <defs>
+    <pattern id="gear4" width="20" height="20" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse">
+      <rect width="100%" height="100%" style="fill:#ffffff; fill-opacity:1; stroke:none;" />
+      <line x1="0" y1="0" x2="0" y2="20" style="stroke:blue; stroke-width:20; stroke-opacity:1;">
+        <animate attributeName="stroke-width" attributeType="XML" dur="4s" repeatCount="indefinite" values="20 ; 40; 0 ; 20" keyTimes="0 ; 0.25 ; 0.75; 1" />
+      </line>
+    </pattern>
+  </defs>
+  <rect id="rect-0011" style="fill: url(#gear4); stroke-width: 1.07" clip-path="url(#clip_0_576_720_0)" x="646.8" y="271.16" width="41.1" height="41.1" />
+  <rect id="rect-0012" style="fill: #FFFFFF; stroke: none" clip-path="url(#clip_0_576_720_0)" x="646.09" y="312.97" width="42.52" height="42.52" />
+  <defs>
+    <pattern id="gear6" width="20" height="20" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse">
+      <rect width="100%" height="100%" style="fill:#ffffff; fill-opacity:1; stroke:none;" />
+      <line x1="0" y1="0" x2="0" y2="20" style="stroke:#000000; stroke-width:20; stroke-opacity:1;" />
+      <animateTransform attributeName="patternTransform" attributeType="xml" type="rotate" dur="16s" repeatCount="indefinite" values="45; 360; 0; 45" keyTimes="0; 0.875; 0.875; 1" />
+    </pattern>
+  </defs>
+  <rect id="rect-0013" style="fill: url(#gear6); stroke-width: 1.07" clip-path="url(#clip_0_576_720_0)" x="646.8" y="313.67" width="41.1" height="41.1" />
+  <g clip-path="url(#clip_0_576_720_0)">
+    <text x="694.09" y="252.34" lengthAdjust="spacingAndGlyphs" id="text-0010" textLength="4.89px" style="font-size: 8.8px; font-family: Helvetica">
+      4
+    </text>
+  </g>
+  <g clip-path="url(#clip_0_576_720_0)">
+    <text x="694.09" y="294.86" lengthAdjust="spacingAndGlyphs" id="text-0011" textLength="4.89px" style="font-size: 8.8px; font-family: Helvetica">
+      6
+    </text>
+  </g>
+  <g clip-path="url(#clip_0_576_720_0)">
+    <text x="694.09" y="337.38" lengthAdjust="spacingAndGlyphs" id="text-0012" textLength="4.89px" style="font-size: 8.8px; font-family: Helvetica">
+      8
+    </text>
+  </g>
+  <g clip-path="url(#clip_0_576_720_0)">
+    <text x="33.26" y="14.95" lengthAdjust="spacingAndGlyphs" id="text-0013" textLength="227.5px" style="font-size: 13.2px; font-family: Helvetica">
+      Example - manual pattern specification
+    </text>
+  </g>
+</svg>

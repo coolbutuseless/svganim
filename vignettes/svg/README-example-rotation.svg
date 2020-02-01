@@ -1,0 +1,5 @@
+<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect x="10%" y="10%" width="80%" height="80%" fill="blue" stroke="black">
+    <animateTransform attributeName="transform" attributeType="xml" from="0 200 100" to="360 200 100" type="rotate" dur="16s" repeatCount="indefinite" />
+  </rect>
+</svg>
